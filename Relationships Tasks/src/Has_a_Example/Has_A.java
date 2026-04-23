@@ -6,7 +6,7 @@ public class Has_A {
     public static void main(String[] args) {
 
         Person person1 = new Person();
-        // person1.mobile     this person doesn't have a mobile yet unless I create a mobile object for them(I guess?)
+        // person1.mobile     this person doesn't have a mobile yet unless I create a mobile object for them
 
         Person person2 = new Person();
         person2.name = "Ola";
